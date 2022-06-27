@@ -6,3 +6,7 @@ Shell Redirections
 4.Display the last 10 lines
 5.Display the first 10 lines
 6.The file iacta
+7.
+8.
+9.
+10.No more javascript
